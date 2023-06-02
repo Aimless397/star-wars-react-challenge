@@ -1,0 +1,34 @@
+:root {
+  --color1: #121212;
+  --color2: #333333;
+  --color3: #828282;
+  --color4: #ec5757;
+  --color5: #0000001a;
+
+  --h2-default: 17pt rgba(0, 0, 0, 1);
+  --h2-low-emphasis: 17pt rgba(0, 0, 0, 0.3);
+  --h2-high-emphasis: 17pt rgba(235, 87, 87, 1);
+  --p1-default: 14pt rgba(0, 0, 0, 1);
+  --p1-low-emphasis: 14pt rgba(0, 0, 0, 0.5);
+}
+
+.navbar {
+  width: 100%;
+  padding-left: 33px;
+  background-color: var(--color1);
+}
+
+.app {
+  display: grid;
+  grid-template-rows: 52px 1fr;
+  word-wrap: break-word;
+  height: 100vh;
+  max-height: 100vh;
+  height: calc(100vh - 52px);
+  max-height: calc(100vh - 52px);
+}
+
+.contentContainer {
+  --bs-gutter-x: 0;
+  display: flex;
+}

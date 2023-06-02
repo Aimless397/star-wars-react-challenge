@@ -1,0 +1,51 @@
+/* CharacterContent */
+
+.noVehicleContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1em 0px 1em 0px;
+}
+
+.noVehicleSpan {
+  font-size: 15px;
+  color: var(--color3);
+  font-weight: 700;
+}
+
+.sectionContainer {
+  margin: 2em 0px 0.5em 0px;
+}
+
+.sectionHeader {
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.dataCellContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid var(--color5);
+  padding: 1em 0px 1em 0px;
+}
+
+.dataCellCategoryText {
+  color: var(--color3);
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.dataCellValueText {
+  color: var(--color2);
+  font-size: 17px;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+
+.fetchContentErrorContainer {
+  display: flex;
+  justify-content: center;
+  margin: 3rem;
+  font-size: 20px;
+}
