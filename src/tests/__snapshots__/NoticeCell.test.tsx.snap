@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NoticeCell /> should be rendered 1`] = `
+<div>
+  <div
+    class="noticeContainer"
+  >
+    <span
+      class="noticeSpan"
+      data-testid="noticeSpan"
+    >
+      Failed to Load Data
+    </span>
+  </div>
+</div>
+`;

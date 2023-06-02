@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<DataCell /> should be rendered 1`] = `
+<div>
+  <div
+    class="dataCellContainer"
+  >
+    <span
+      class="dataCellCategoryText"
+      data-testid="dataCellCategoryText"
+    >
+      name
+    </span>
+    <span
+      class="dataCellValueText"
+    >
+      Yoda
+    </span>
+  </div>
+</div>
+`;

@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SectionHeader /> should be rendered 1`] = `
+<div>
+  <div
+    class="sectionContainer"
+  >
+    <span
+      class="sectionHeader"
+      data-testid="sectionHeader"
+    >
+      name
+    </span>
+  </div>
+</div>
+`;

@@ -1,0 +1,110 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Container /> should be rendered 1`] = `
+<div>
+  <div
+    class="row m-0 contentContainer"
+    data-testid="contentContainer"
+  >
+    <div
+      class="col-5 col-sm-4 col-md-4 col-lg-4 col-xl-3 col-xxl-3"
+    >
+      <div
+        class="sidebar"
+      >
+        <div
+          class="d-flex"
+        >
+          <button
+            class="btn btn-secondary my-2 mx-auto"
+          >
+            Load more Characters
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="col-7 col-sm-8 col-md-8 col-lg-8 col-xl-9 col-xxl-9"
+    >
+      <div
+        class="row m-0"
+      >
+        <div
+          class="col"
+        />
+        <div
+          class="col-12 col-sm-10 col-md-9 col-lg-9 col-xl-9 col-xxl-8"
+        >
+          <div
+            class="charactersContainer"
+          >
+            <div
+              class="sectionContainer"
+            >
+              <span
+                class="sectionHeader"
+                data-testid="sectionHeader"
+              >
+                General Information
+              </span>
+            </div>
+            <div
+              class="dataCellContainer"
+            >
+              <span
+                class="dataCellCategoryText"
+                data-testid="dataCellCategoryText"
+              >
+                Eye Color
+              </span>
+            </div>
+            <div
+              class="dataCellContainer"
+            >
+              <span
+                class="dataCellCategoryText"
+                data-testid="dataCellCategoryText"
+              >
+                Hair Color
+              </span>
+            </div>
+            <div
+              class="dataCellContainer"
+            >
+              <span
+                class="dataCellCategoryText"
+                data-testid="dataCellCategoryText"
+              >
+                Skin Color
+              </span>
+            </div>
+            <div
+              class="dataCellContainer"
+            >
+              <span
+                class="dataCellCategoryText"
+                data-testid="dataCellCategoryText"
+              >
+                Birth Year
+              </span>
+            </div>
+            <div
+              class="sectionContainer"
+            >
+              <span
+                class="sectionHeader"
+                data-testid="sectionHeader"
+              >
+                Vehicles
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

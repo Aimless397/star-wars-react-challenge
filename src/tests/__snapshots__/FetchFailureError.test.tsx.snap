@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FetchFailureError /> should be rendered 1`] = `
+<div>
+  <div
+    class="fetchContentErrorContainer"
+    data-testid="fetchContentErrorContainer"
+  >
+    <span>
+      Please reload the page
+    </span>
+  </div>
+</div>
+`;

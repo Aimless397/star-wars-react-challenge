@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LoadingCell /> should be rendered 1`] = `
+<div>
+  <div
+    class="loadingContainer"
+  >
+    <div
+      class="spinner-border spinner-border-sm"
+    />
+    <span
+      class="loadingSpan"
+      data-testid="loadingSpan"
+    >
+      Loading
+    </span>
+  </div>
+</div>
+`;
